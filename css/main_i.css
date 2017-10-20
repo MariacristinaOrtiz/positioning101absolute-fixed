@@ -1,0 +1,6 @@
+/* cambiamos la posicion de la caja dos a fixed */
+#box_2 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
